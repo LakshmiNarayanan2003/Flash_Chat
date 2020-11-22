@@ -1,6 +1,6 @@
 # chat_app
 
-A real need Chat application with Firebase login Authentication. Nothing exceptional, just a normal chat app.
+A real Chat application with Firebase login Authentication. Nothing exceptional, just a normal chat app.
 
 ## Getting Started
 - You'll need a Firebase account which you can create from firebase.google.com 
