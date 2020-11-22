@@ -9,7 +9,7 @@ A real Chat application with Firebase login Authentication. Nothing exceptional,
 
 A few resources to get you started if this is your first Flutter project:
 
--  Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+-  [Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
